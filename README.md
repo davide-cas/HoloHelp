@@ -16,5 +16,7 @@ Starting from Microsoft HoloLens 2, the idea was successfully implemented with a
 
 The goal is to make the tool as much manageable and easy to use as possible. Therefore, the idea was to use one simple voice command: HoloHelp. Nothing more. Once pronounced, HoloLens will immediately take a picture, saving the eye gaze coordinates of the object that the user is watching. Once saved the picture with those information, an API request will be sent to Microsoft Azure Custom Vision, and a small audio and AR video guide that explains the usage of the object detected will appear.
 
+[![HoloHelp](https://user-images.githubusercontent.com/55694345/149018993-d159b8bc-6ac9-47ac-9665-d5d77d4b7e74.png)](https://youtu.be/ZugR1hTd4bY)
+
 ## Credits
 The thesis has been supervised by the professor [Antonino Furnari](http://www.antoninofurnari.it), in collaboration with [NEXT VISION](https://www.nextvisionlab.it/).
